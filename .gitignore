@@ -1,0 +1,14 @@
+# Environment / secrets
+.env
+
+# Node
+node_modules/
+
+# Runtime data
+templates_store/
+fonts/
+static/assets/
+
+# OS
+.DS_Store
+Thumbs.db
